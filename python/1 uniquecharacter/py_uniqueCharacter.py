@@ -1,5 +1,5 @@
 def isUniqueChars(s):
-    
+    #ascii
     if(len(s) > 256):
         return False
     
