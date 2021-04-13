@@ -16,6 +16,6 @@ a.insert('b')
 a.insert('c')
 a.insert('d')
 a.insert('e')
-
+a.printList()
 nthToLast(a.head,3)
 
