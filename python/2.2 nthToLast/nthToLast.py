@@ -7,7 +7,6 @@ def nthToLast(head,k):
     i = nthToLast(head.next,k) + 1
     if i == k :
         print(head.data)
-        print('index = ' + str(i))
     return i
 
 a = LinkedList()
